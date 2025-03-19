@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    background-color: rgb(6, 6, 92);
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    width: 100px;
+    border-radius: 300px;
+}
+.logo h1{
+    color: white;
+}
